@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Test Web App",
+    "log_source": "Prometheus",
+    "prometheus_url": "http://localhost:9090"
+  }
+]
