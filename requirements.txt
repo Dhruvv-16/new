@@ -1,0 +1,12 @@
+streamlit
+requests
+flask
+numpy
+pandas
+scikit-learn
+transformers
+torch
+tqdm
+watchdog
+uvicorn
+fastapi
